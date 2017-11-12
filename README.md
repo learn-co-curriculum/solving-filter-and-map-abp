@@ -1,12 +1,13 @@
-# Solving the Looping and Iteration ABP
+# Solving the Filter and Map ABP
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iP_Oh62ip_o?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://youtu.be/iP_Oh62ip_o">Solving Looping and Iteration</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B6qPDsWasjE?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://youtu.be/B6qPDsWasjE">Solving the Filter and Map</a></p>
 
-[Solution](https://github.com/aviflombaum/js-looping-and-iteration-looping-code-along-abp-11-17/blob/master/index.js)
+[Filter Solution](https://github.com/aviflombaum/js-looping-and-iteration-filter-lab-abp-11-17/blob/solution/index.js)
+[Map Solution](https://github.com/aviflombaum/js-looping-and-iteration-map-lab-abp-11-17/blob/solution/index.js)
 
 ## Resources
 
-* [Loops and Iteration](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
-* [Loops CodeAcademy](https://www.codecademy.com/courses/loops/6/1)
-* [Loops](http://www.dofactory.com/tutorial/javascript-loops)
-* [Flatiron School - More on Loops and Objects - Video](https://www.youtube.com/watch?v=6iFAM0xrlnE)
+* [How to Use Map, Filter, & Reduce in JavaScript](https://code.tutsplus.com/tutorials/how-to-use-map-filter-reduce-in-javascript--cms-26209)
+* [JavaScript’s Map, Reduce, and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter)
+* [Map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+* [Filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
